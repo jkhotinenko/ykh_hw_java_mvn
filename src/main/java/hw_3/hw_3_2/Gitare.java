@@ -12,6 +12,6 @@ class Gitare implements Instrument {
 
     @Override
     public void Play() {
-        System.out.println("Play the Gitare");
+        System.out.println("Play the Gitare on "+nStr+" strings");
     }
 }
